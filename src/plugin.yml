@@ -1,0 +1,4 @@
+name: MineDND
+version: '1.0'
+main: io.github.meganmcadams.minednd.MineDND
+api-version: '1.20'
